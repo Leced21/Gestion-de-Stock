@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cedri\\Desktop\\OldApp\\EXERCICES C#\\Gestion d\u0027un stock\\Polymorphisme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD6945F-63AA-4F21-A006-5A11D37DEB33}|Polymorphisme\\Polymorphisme.csproj|c:\\users\\cedri\\desktop\\oldapp\\exercices c#\\gestion d\u0027un stock\\polymorphisme\\polymorphisme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD6945F-63AA-4F21-A006-5A11D37DEB33}|Polymorphisme\\Polymorphisme.csproj|solutionrelative:polymorphisme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\EXERCICES C#\\Gestion d\u0027un stock\\Polymorphisme\\Polymorphisme\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphisme\\Program.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\EXERCICES C#\\Gestion d\u0027un stock\\Polymorphisme\\Polymorphisme\\Program.cs",
+              "RelativeToolTip": "Polymorphisme\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T13:36:13.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

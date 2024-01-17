@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cedri\\Desktop\\OldApp\\EXERCICES C#\\Gestion d\u0027un stock\\Article\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80ECE9B-61CB-4490-8CC2-D55148B0A931}|Article\\Article.csproj|c:\\users\\cedri\\desktop\\oldapp\\exercices c#\\gestion d\u0027un stock\\article\\article\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80ECE9B-61CB-4490-8CC2-D55148B0A931}|Article\\Article.csproj|solutionrelative:article\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\EXERCICES C#\\Gestion d\u0027un stock\\Article\\Article\\Program.cs",
+              "RelativeDocumentMoniker": "Article\\Program.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\EXERCICES C#\\Gestion d\u0027un stock\\Article\\Article\\Program.cs",
+              "RelativeToolTip": "Article\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T14:54:08.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
